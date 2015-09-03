@@ -1,0 +1,32 @@
+******************************************************************************
+                                        Steps are Given by
+
+******************************************************************************
+step  1: download and instal xampp from         www.apachefriends.org
+
+step  2: Install it in your device
+
+Step 3: put the parichaiyanthra file in htdocs folder
+
+Step 4: Start the apache server in xampp
+
+Step 5: Open your browser and type in the address bar localhost/parichaiyanthra
+or u can visit our page phpftw.com/parichaiyanthra/
+
+
+*******************************************************************************
+
+
+Thank You for giving opertunity
+
+Team members:
+Gokul.P
+ManoVignesh.R
+Sudhakar.A
+
+Contact us: 
+	    +91 9698969480
+	    +91 8344620712
+                    +91 9842972047
+                    
+

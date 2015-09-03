@@ -1,0 +1,95 @@
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+}
+.head{
+	text-align: center;
+	font-family: Centaur;
+	font-weight: bold;
+
+	
+	color: black;
+	text-shadow: 2px 1px 5px white, 3px 2px 6px red;
+	font-variant: small-caps;
+}
+
+#wrap ,#imag ,article,#workshop,#workshop2,footer{
+	/* width: 275; */	
+	margin: auto;
+}
+#workshop p{
+	float: left;
+	margin-left: 50px;
+}
+article{
+	
+	padding-top: 20px;
+	margin:auto;
+}
+img{
+	
+	float: left;
+	padding-top: 20px;
+	/* padding-right: 0px; */
+	
+}
+article p{
+	margin-left: 500px;	
+	padding-left: 100px;	
+}
+
+li{
+	display: inline;
+	padding-right: 50px;
+}
+
+ul a{
+	text-decoration: none;
+	color: #0E0D0D;
+}
+
+
+blockquote{
+	border: 1px solid white;
+	text-align: center;
+	margin-left: 0;
+}
+
+.continue{
+	float: right;
+	text-decoration: none;
+	color: #666;
+
+}
+.continue:hover{
+	
+	text-decoration: underline;
+	color: black;
+}
+form li {
+	list-style: none;
+	margin-bottom: 20px;
+}
+form ul {
+	padding-left: 0;
+}
+label {
+	display: block;
+	cursor: pointer;
+	color: #292929;
+	font-family: sans-serif;
+	padding-bottom: 8px;
+}
+
+textarea {
+	width: 400px;
+	height: 200px;
+}
+footer p{
+	text-align: center;
+}
+footer{
+	clear: both;
+	border-top: 1px solid #d1d1d1;
+	padding-top: 18px;
+}
